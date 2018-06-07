@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "drinkabeerdrinkinggame",
+    "description": "This project is really great.",
+    "slug": "drinkabeerdrinkinggame",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/beericon.png",
+    "splash": {
+      "image": "./assets/playing-cards.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#c74444"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
+//cards drinks and cigar ./assets/poker.png

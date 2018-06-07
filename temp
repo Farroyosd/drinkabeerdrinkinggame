@@ -1,0 +1,5 @@
+<Image
+        resizeMode='contain'
+        style={{ width: 175, height: 175 }}
+        source={require('../../assets/cardback.png')}
+    />
